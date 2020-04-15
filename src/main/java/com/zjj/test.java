@@ -1,4 +1,4 @@
 package com.zjj;
 
-public class test   {
+public class test  {
 }
